@@ -1,0 +1,15 @@
+
+<P ID="1">Outlook water deemed safe for elementary students
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Jamie Smart</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">9/7/2004</TIMEX>
+</P><P ID="4">OUTLOOK - For a few days <TIMEX TYPE="DATE">last week</TIMEX> it looked like <ENAMEX TYPE="ORGANIZATION">Outlook Elementary School</ENAMEX> children would be drinking bottled water after it was discovered the school's water supply had been contaminated.   <TIMEX TYPE="TIME">This morning</TIMEX> (<TIMEX TYPE="DATE">Tuesday</TIMEX>) the <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School District</ENAMEX> announced the discontinuation of the bottled water directive issued <TIMEX TYPE="DATE">last Friday</TIMEX>.   "The water has now tested clean," said <ENAMEX TYPE="PERSON">Braven Bendzak</ENAMEX>, the district's facility director.   <ENAMEX TYPE="PERSON">Bendzak</ENAMEX> said the district took immediate steps to prevent the use of the school's well water when recent water samples failed tests for nitrates.   The <ENAMEX TYPE="ORGANIZATION">Washington State Department of Health</ENAMEX> was notified and the district worked closely with the state <ENAMEX TYPE="ORGANIZATION">Office of Drinking Water</ENAMEX> to find the sources of the contamination, he explained.   "We always check the water supply before the start of school, shocking it with chlorine to kill any bacteria which may have developed in the water lines over the <TIMEX TYPE="DATE">summer</TIMEX> months," <ENAMEX TYPE="PERSON">Bendzak</ENAMEX> explained.   "Our first water sample proved to be clean, but several days later we found that the water showed signs of contamination," he said.   An investigation of the school's water lines found the problem was originating in the lines coming from the school's portable units, <ENAMEX TYPE="PERSON">Bendzak</ENAMEX> said.   "Normally, all the lines are flushed with chlorine, but somehow the portable lines were overlooked," he said.   In order to avoid a similar situation in the future, <ENAMEX TYPE="PERSON">Bendzak</ENAMEX>'s staff has installed a chlorinator to the water supply to provide a steady supply of chlorine to the system.   This <TIMEX TYPE="DATE">past Saturday</TIMEX>, the test water samples showed an absence of the contamination and the decision to lift the bottled water advisory was made.   <ENAMEX TYPE="PERSON">Bendzak</ENAMEX> said no reports of illness were attributed to the failed water tests.   The bottled water advisory was only in place one day, said Dr. <ENAMEX TYPE="PERSON">Aaron Bones</ENAMEX>, <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School</ENAMEX> Superintendent.   "We worked closely with the state health department to complete the inspections, water samples and disinfecting of the system as quickly as possible," <ENAMEX TYPE="PERSON">Bones</ENAMEX> said.   "We're pleased to have lifted the one-day advisory," he said.
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

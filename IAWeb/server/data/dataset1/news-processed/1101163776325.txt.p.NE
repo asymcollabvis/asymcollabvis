@@ -1,0 +1,15 @@
+
+<P ID="1">Tacitly Yours
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">1/30/2003</TIMEX>
+</P><P ID="4">This coming <TIMEX TYPE="DATE">Sunday</TIMEX> marks a very special day for me. <TIMEX TYPE="DATE">Sunday, Feb. 1</TIMEX>, is none other than Super Bowl <TIMEX TYPE="DATE">Sunday</TIMEX>. The <TIMEX TYPE="DATE">Sunday</TIMEX> that marks the official end of football season.   I don't know if anyone remembers, but back when the season started I vowed to give football a chance. To sit down with my husband and help him cheer on the home team every <TIMEX TYPE="DATE">Sunday</TIMEX>, while bringing him snacks and learning more and more about the game each week.   I will admit that this football season I watched more football games than I ever have in my entire life. I will also admit that I have a much firmer grasp on the essence of the game. I will even admit to everyone out there that for the first time, maybe ever, I can actually name the two teams in the Super Bowl. (The <ENAMEX TYPE="ORGANIZATION">New England Patriots</ENAMEX> and the <ENAMEX TYPE="ORGANIZATION">Carolina Panthers</ENAMEX>, for those of you who don't believe me.)   However, there are still some things that I have to get used to if I'm going to stick with this football wife role I have taken on. For example, I don't understand why my husband has to watch both the early and late games on <TIMEX TYPE="DATE">Sunday</TIMEX>, then tune in to SportsCenter to see what the broadcasters there have to say about each of the games he watched. And that isn't even all of the football we watch on Sundays. He also flips back and forth to other sports channels during the game to keep up on the scores from the other games that are going on. I just don't understand.   Still, with all of the channel flipping and game watching that went on during the season at my house I did usually manage to sit through at least one game on <TIMEX TYPE="DATE">Sunday</TIMEX>. However, I would usually have to find something else to occupy my time during the three hours of the second game.   So I managed to gracefully make my way through most of the regular season. I didn't, however, realize that as the season progresses football slowly begins to take over the entire weekend. Before I knew it we were sitting on the sofa both <TIMEX TYPE="DATE">Saturday</TIMEX> and <TIMEX TYPE="DATE">Sunday</TIMEX>. I also didn't realize that just because <ENAMEX TYPE="ORGANIZATION">the Seahawks</ENAMEX> didn't make it too far into the post-season, that our football game watching wasn't over.   Needless to say, I am very much looking forward to <TIMEX TYPE="DATE">this Sunday</TIMEX>, the end of football season and taking back the weekends.   . <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX> can be contacted at (509) 837-4500, or e-mail her at eOlmsen@hawkpress.com   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

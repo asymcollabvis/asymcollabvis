@@ -1,0 +1,59 @@
+
+<P ID="1"><ENAMEX TYPE="LOCATION">Central Washington State</ENAMEX> fair lineup is a 'carnaval' of entertainment
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Mel Sacher</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">9/3/2004</TIMEX>
+</P>
+<P ID="4">1-Column
+<ENAMEX TYPE="LOCATION">YAKIMA</ENAMEX> - For 10 days the fun and entertainment of <ENAMEX TYPE="LOCATION">New Orleans</ENAMEX> will be returning to <ENAMEX TYPE="LOCATION">Yakima</ENAMEX> for "Deux Carnaval!, the fun continues" at the <ENAMEX TYPE="LOCATION">Central Washington State Fair</ENAMEX>, which is slated for <TIMEX TYPE="DATE">Sept. 24 through Oct. 3</TIMEX>.
+<TIMEX TYPE="DATE">This year</TIMEX>'s fair has a hours of entertainment for the entire family ranging from the <ENAMEX TYPE="PERSON">Royal Hanneford Circus</ENAMEX> under the big top to headlining entertainment on the Oak Park Stage and rodeo action in the Budweiser Grandstand.
+The <ENAMEX TYPE="PERSON">Royal Hanneford Circus</ENAMEX>, returning to <ENAMEX TYPE="LOCATION">Yakima</ENAMEX> for the second time, will be performing three shows a day for all 10 days of the fair.
+One of the world's oldest circuses, with roots dating back to the 1690s, the circus was a popular stop for fairgoers and their youngsters <TIMEX TYPE="DATE">last year</TIMEX>.
+The circus is free with admission.
+Kicking off the entertainment on the Oak Park Stage <TIMEX TYPE="DATE">this year</TIMEX> will be country music favorites the <ENAMEX TYPE="ORGANIZATION">Bellamy Brothers</ENAMEX>. The duo, who will be performing <TIMEX TYPE="DATE">Friday, Sept. 24</TIMEX>, at <TIMEX TYPE="TIME">7:30 p.m.</TIMEX>, are best know for country hits such as "If I <ENAMEX TYPE="PERSON">Said You</ENAMEX> Have a Beautiful Body, Would You Hold it Against Me," and pop hit "Let Your Love Flow."
+Popular musical comedian "Weird Al" Yankovic will be returning to the fair after an eight year lapse <TIMEX TYPE="DATE">Saturday, Sept. 25</TIMEX>, at <TIMEX TYPE="TIME">7:30 p.m.</TIMEX> Yankovic will be performing his latest musical parodies, as well as some old favorites.
+Mama Mia's <ENAMEX TYPE="PERSON">Bjorn Again</ENAMEX> will take the stage <TIMEX TYPE="DATE">Sunday, Sept. 26</TIMEX>, at <TIMEX TYPE="TIME">4 p.m.</TIMEX> The singers, look, sound and dress like the Swedish singing sensation <ENAMEX TYPE="PERSON">ABBA</ENAMEX>.
+<TIMEX TYPE="DATE">Tuesday, Sept. 28</TIMEX>, the country music hits "<ENAMEX TYPE="PERSON">Man</ENAMEX> to <ENAMEX TYPE="PERSON">Man</ENAMEX>" and "The One" will be belted out by up and coming musician <ENAMEX TYPE="PERSON">Gary Allan</ENAMEX>. He will be performing at <TIMEX TYPE="TIME">7:30 p.m.</TIMEX>
+Also returning to the fair will be top female rocker <ENAMEX TYPE="PERSON">Joan Jett</ENAMEX>, along with band the Blackhearts. Best known for her hit "I Love Rock n' Roll," <ENAMEX TYPE="PERSON">Jett</ENAMEX> will be performing at <TIMEX TYPE="TIME">7:30 p.m.</TIMEX>, <TIMEX TYPE="DATE">Friday, Oct. 1</TIMEX>.
+Creative prop comedian Carrot Top will be entertaining audiences on the Oak Park Stage <TIMEX TYPE="DATE">Saturday, Oct. 2</TIMEX>, at <TIMEX TYPE="TIME">7:30 p.m.</TIMEX>
+Rounding out the entertainment at the fair will be Hispanic singer <ENAMEX TYPE="PERSON">Yolanda del Rio</ENAMEX>. She will be performing <TIMEX TYPE="DATE">Sunday, Oct. 3</TIMEX>, at <TIMEX TYPE="TIME">4 p.m.</TIMEX>
+At the Budweiser Grandstand, <TIMEX TYPE="DATE">Friday</TIMEX> and <TIMEX TYPE="DATE">Saturday, Sept. 24</TIMEX> and 25, will be the <ENAMEX TYPE="LOCATION">Northern Sprint Tour Car Races</ENAMEX>. The races will begin at <TIMEX TYPE="TIME">7 p.m.</TIMEX>
+<TIMEX TYPE="DATE">Sunday, Sept. 26</TIMEX>, at <TIMEX TYPE="TIME">2 p.m.</TIMEX> the Spanish rodeo will take the grandstand.
+<TIMEX TYPE="DATE">Wednesday</TIMEX> and <TIMEX TYPE="DATE">Thursday, Sept. 29</TIMEX> and 30, will be two days of PRCA Rodeo action. The PRCA Bull-O-Rama will be <TIMEX TYPE="DATE">Friday, Oct. 1</TIMEX>, at <TIMEX TYPE="TIME">7 p.m.</TIMEX>
+The closing entertainment for the Budweiser Grandstand will be two days of demolition derby action, <TIMEX TYPE="DATE">Saturday, Oct. 2</TIMEX>, at <TIMEX TYPE="TIME">7 p.m.</TIMEX> <TIMEX TYPE="DATE">Sunday, Oct. 3</TIMEX>, at <TIMEX TYPE="TIME">2 p.m.</TIMEX>
+Also as a part of the entertainment will be nightly parades through the fairgrounds, which will begin at <TIMEX TYPE="TIME">6 p.m.</TIMEX> The Great American Duck Races will also be part of the entertainment, as will <ENAMEX TYPE="PERSON">Nancy Kobert</ENAMEX>'s Amazing World of Birds show, which will have daily performances on the Pepsi Stage. For those wanting a more hands-on experience there's <ENAMEX TYPE="PERSON">Brad</ENAMEX>'s World of Reptiles, where visitors will be able to touch the reptiles.
+<ENAMEX TYPE="PERSON">Hypnotists Jerry Harris</ENAMEX> and <ENAMEX TYPE="PERSON">Tammy Harris-Barton</ENAMEX> will make stars out of audience members at their show to be held every day of the fair at held at the <ENAMEX TYPE="ORGANIZATION">Pacific Power Community Stage</ENAMEX>.
+Those looking for a little comedy may find entertainment in three outrageous cowpokes, which will also be part of the 10 days of entertainment.
+Besides days of free entertainment, special promotional days will also be held during the annual fair.
+<TIMEX TYPE="DATE">Friday, Sept. 24</TIMEX> will be the <TIMEX TYPE="DATE">KIMA-TV Day</TIMEX>, which is offering free admission and parking until <TIMEX TYPE="TIME">3 p.m.</TIMEX> Carnival wristbands will be available for <NUMEX TYPE="MONEY">$18</NUMEX> for those wanting to tackle the rides from <TIMEX TYPE="TIME">noon</TIMEX> until <TIMEX TYPE="TIME">10 p.m.</TIMEX>
+<TIMEX TYPE="DATE">Sunday, Sept. 26</TIMEX> is <ENAMEX TYPE="ORGANIZATION">Yakima Valley Farm Workers</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">YVFW</ENAMEX>) <TIMEX TYPE="DATE">Clinic Day</TIMEX>. The first 5,000 guests attending the Spanish rodeo and visiting the YVFW mobile clinic will receive a free Frisbee-like flyer. Ride wristbands valid from <TIMEX TYPE="TIME">11 a.m.</TIMEX> to <TIMEX TYPE="TIME">9 p.m.</TIMEX> will be available for <NUMEX TYPE="MONEY">$25</NUMEX>.
+Fair-goers on <TIMEX TYPE="DATE">Monday, Sept. 27</TIMEX> will enjoy <ENAMEX TYPE="LOCATION">Snyder</ENAMEX>'s bread day. With a marked <ENAMEX TYPE="LOCATION">Snyder</ENAMEX>'s bread sack, the cost of admission to the fair with unlimited carnival rides is <NUMEX TYPE="MONEY">$22</NUMEX>. Unlimited rides will be from <TIMEX TYPE="TIME">11 a.m.</TIMEX> to <TIMEX TYPE="TIME">9 p.m.</TIMEX> <TIMEX TYPE="DATE">Snyder's day</TIMEX> is the only day of the fair that the cost for a wristband includes fair admission.
+On <TIMEX TYPE="DATE">Tuesday, Sept. 28</TIMEX>, from <TIMEX TYPE="TIME">11 a.m.</TIMEX> to <TIMEX TYPE="TIME">3 p.m.</TIMEX> KIMA-TV and Living Care Retirement Community will sponsor half-price admission for all in honor of the military personnel, veterans and senior citizens. Wristbands valid from <TIMEX TYPE="TIME">3 p.m.</TIMEX> to <TIMEX TYPE="TIME">9 p.m.</TIMEX> will be available for <NUMEX TYPE="MONEY">$18</NUMEX>.
+<TIMEX TYPE="DATE">Pepsi Family Day</TIMEX> will be <TIMEX TYPE="DATE">Wednesday, Sept. 29</TIMEX>. Those wanting to attend the fair who bring an empty Pepsi can, pay <NUMEX TYPE="MONEY">$20</NUMEX> and receive admission for two adults and two youths (ages 6-12). Carnival wristbands are <NUMEX TYPE="MONEY">$18</NUMEX> and can be used between 3 and <TIMEX TYPE="TIME">9 p.m.</TIMEX>
+<TIMEX TYPE="DATE">Thursday, Sept. 30</TIMEX>, is Pizza <TIMEX TYPE="DATE">Hut Little Buckaroo Day</TIMEX>. Admission for youths ages 6-12 is <NUMEX TYPE="MONEY">$1</NUMEX> after <TIMEX TYPE="TIME">4 p.m.</TIMEX> Wristbands will be available for <NUMEX TYPE="MONEY">$18</NUMEX> and can be used from 3 to <TIMEX TYPE="TIME">9 p.m.</TIMEX>
+The first 500 adults wearing pink on <TIMEX TYPE="DATE">Friday, Oct. 1</TIMEX>, will each received a coupon for <NUMEX TYPE="MONEY">$2</NUMEX> Pink Panther scratch ticket from the Lottery Booth in the SunDome. They will also have a chance to win the Ultimate Football Weekend and <NUMEX TYPE="MONEY">$20,000</NUMEX> on <ENAMEX TYPE="PERSON">Washington Lottery</ENAMEX> "Think Pink, Wear Pink" Day. Carnival wristbands valid from 3 to <TIMEX TYPE="TIME">10 p.m.</TIMEX> will be available for <NUMEX TYPE="MONEY">$18</NUMEX>.
+Bring an empty can of Coca-Cola <TIMEX TYPE="DATE">Sunday, Oct. 3</TIMEX>, for <TIMEX TYPE="DATE">Coca-Cola Day</TIMEX> and two adults and two children (ages 6-12) will be allowed to attend the fair for <NUMEX TYPE="MONEY">$25</NUMEX>. Wristbands valid from <TIMEX TYPE="TIME">11 a.m.</TIMEX> to <TIMEX TYPE="TIME">8 p.m.</TIMEX> will be available for <NUMEX TYPE="MONEY">$20</NUMEX>.
+Ticket prices for the fair are <NUMEX TYPE="MONEY">$10</NUMEX> for adults and <NUMEX TYPE="MONEY">$5</NUMEX> for youths ages 6-12 and senior citizens 65 and older.
+Discounted tickets are available through <TIMEX TYPE="DATE">Sept. 23</TIMEX>. Discounted adult tickets are <NUMEX TYPE="MONEY">$8.50</NUMEX> each and youth (ages 6-12) and senior citizen tickets are <NUMEX TYPE="MONEY">$5</NUMEX> each.
+A family pack is available for <NUMEX TYPE="MONEY">$39</NUMEX>. The pack includes gate admission for two adults and two youths and 36 ride coupons. <NUMEX TYPE="MONEY">Three dollars</NUMEX> in Butler coupons good for games, cotton candy and soft drinks is also included in the package. Butler ride booklets with 36 ride coupons are currently available for <NUMEX TYPE="MONEY">$15</NUMEX>.
+Discounted tickets are available at the <ENAMEX TYPE="LOCATION">Central Washington State Fair</ENAMEX> office, 1301 S. Fair Avenue, <ENAMEX TYPE="LOCATION">Yakima</ENAMEX>. They can also be ordered by phone at (509) 248-7160.
+</P> 
+<P ID="5">Local singers to perform at <ENAMEX TYPE="LOCATION">Yakima</ENAMEX> fair
+Hanging up Italian arias for the day the <ENAMEX TYPE="PERSON">Rice</ENAMEX> sisters will be harmonizing country favorites from artist such as <ENAMEX TYPE="PERSON">Allison Krauss</ENAMEX> and <ENAMEX TYPE="PERSON">Martina McBride</ENAMEX>.
+<ENAMEX TYPE="PERSON">Aileen</ENAMEX>, <ENAMEX TYPE="PERSON">Erin and Caitlin Rice</ENAMEX>, all originally of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>, will perform the <TIMEX TYPE="TIME">evening</TIMEX> of <TIMEX TYPE="DATE">Saturday, September 25</TIMEX> at the fair gazebo.
+The daughters of <ENAMEX TYPE="PERSON">Andrew and Terri Rice</ENAMEX> of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>, the girls have considered the community their home since <TIMEX TYPE="DATE">1993</TIMEX>.
+<ENAMEX TYPE="PERSON">Erin</ENAMEX>, 22, is the oldest. She is currently a nurse in <ENAMEX TYPE="LOCATION">Pullman</ENAMEX>. <ENAMEX TYPE="PERSON">Aileen</ENAMEX>, 16, and <ENAMEX TYPE="PERSON">Caitlin</ENAMEX>, 17, are both attending <ENAMEX TYPE="ORGANIZATION">Yakima Valley Community College</ENAMEX> and are expected to receive their associate's degrees <TIMEX TYPE="DATE">this June</TIMEX>.
+According to <ENAMEX TYPE="PERSON">Terri Rice</ENAMEX>, <ENAMEX TYPE="PERSON">Erin</ENAMEX> has been singing the longest. She received a singing scholarship when she was attending college. Since then her sisters have followed suit. They all take voice lessons, and it was actually their voice teacher who suggested they perform at the fair.
+"She thought the fair would expand their exposure a little," said Mrs. <ENAMEX TYPE="PERSON">Rice</ENAMEX>.
+</P> 
+<P ID="6">photo provided by <ENAMEX TYPE="PERSON">Terri Rice
+Aileen</ENAMEX>, <ENAMEX TYPE="PERSON">Erin and Caitlin Rice</ENAMEX> (L-R) of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> will be performing country music favorites at the <ENAMEX TYPE="LOCATION">Central Washington State Fair</ENAMEX> gazebo the <TIMEX TYPE="TIME">evening</TIMEX> of <TIMEX TYPE="DATE">Saturday, Sept. 25</TIMEX>.
+</P>
+
+ 
+
+
+
+
+<P ID="7"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

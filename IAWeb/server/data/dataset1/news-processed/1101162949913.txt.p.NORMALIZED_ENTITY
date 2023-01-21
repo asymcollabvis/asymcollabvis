@@ -1,0 +1,116 @@
+???	EQ00000113	TIM		afternoon		
+???	EQ00000115	TIM		afternoon		
+???	EQ00000111	TIM		morning		
+???	EQ00000112	TIM		morning		
+???	EQ00000114	TIM		morning		
+???	EQ00000116	TIM		morning		
+???	EQ00000078	DAT		2003		
+???	EQ00000110	DAT		2003		
+???	EQ00000108	DAT		2004		
+???	EQ00000109	DAT		2005		
+???	EQ00000079	DAT		8/20/2004		
+???	EQ00000092	DAT		Aug. 14-15		
+???	EQ00000086	DAT		Saturday		
+???	EQ00000090	DAT		Saturday		
+???	EQ00000091	DAT		Saturday		
+???	EQ00000093	DAT		Saturday		
+???	EQ00000094	DAT		Saturday		
+???	EQ00000104	DAT		Saturday		
+???	EQ00000085	DAT		Sunday		
+???	EQ00000087	DAT		Sunday		
+???	EQ00000088	DAT		Sunday		
+???	EQ00000089	DAT		Sunday		
+???	EQ00000095	DAT		Sunday		
+???	EQ00000096	DAT		Sunday		
+???	EQ00000097	DAT		Sunday		
+???	EQ00000102	DAT		Sunday		
+???	EQ00000103	DAT		Sunday		
+???	EQ00000107	DAT		Sunday		
+???	EQ00000081	DAT		last year		
+???	EQ00000105	DAT		last year		
+???	EQ00000099	DAT		next year		
+???	EQ00000100	DAT		next year		
+???	EQ00000084	DAT		past Wednesday		
+???	EQ00000106	DAT		this past weekend		
+???	EQ00000082	DAT		this weekend		
+???	EQ00000080	DAT		this year		
+???	EQ00000083	DAT		this year		
+???	EQ00000098	DAT		this year		
+???	EQ00000101	DAT		this year		
+???	EQ00000077	LOC		Alderwood		
+???	EQ00000076	LOC		Lower Valley		
+???	EQ00000071	LOC		MA		
+???	EQ00000073	LOC		Mt. Adams		
+???	EQ00000072	LOC		Scottie		
+???	EQ00000075	LOC		Toppenish		
+???	EQ00000074	LOC		Valley		
+???	EQ00000063	PER		Ben Comer		
+???	EQ00000046	PER		Bender		
+???	EQ00000065	PER		Bob Girard		
+???	EQ00000060	PER		Bob Greene		
+???	EQ00000061	PER		Bob Hall		
+???	EQ00000044	PER		Bob Story		
+???	EQ00000045	PER		Bob Story,can		
+???	EQ00000066	PER		Bud		
+???	EQ00000064	PER		D. Jorgenson		
+???	EQ00000057	PER		David Stokes		
+???	EQ00000049	PER		Dean Schuler		
+???	EQ00000067	PER		Eric Inions		
+???	EQ00000069	PER		Ernie Els		
+???	EQ00000053	PER		James Rogers		
+???	EQ00000050	PER		Javier Valdez		
+???	EQ00000054	PER		Juan Guerrero		
+???	EQ00000062	PER		Keith Grace		
+???	EQ00000055	PER		Kirk Komstadius		
+???	EQ00000051	PER		Mike Barnick		
+???	EQ00000056	PER		Mike Clark		
+???	EQ00000043	PER		Randy Boast		
+???	EQ00000047	PER		Scott		
+???	EQ00000048	PER		Scott Galbraith		
+???	EQ00000059	PER		Souta Nozaka		
+???	EQ00000052	PER		Stan Buckner		
+???	EQ00000058	PER		Steve Smythe		
+???	EQ00000068	PER		Ty		
+???	EQ00000070	PER		Ty Stotz		
+???	EQ00000018	ORG	CORP	Andrew Stitler & Les Bender		
+???	EQ00000028	ORG	CORP	Andrew Stitler & Pete Veliz		
+???	EQ00000035	ORG		BR		
+???	EQ00000007	ORG		Ben Comer ( MA )		
+???	EQ00000036	ORG	CORP	Best Ball Jeff Bender & Bob Hall		
+???	EQ00000037	ORG		Black Rock Creek Golf Course PGA Professional Jeff Bender		
+???	EQ00000030	ORG	CORP	Bob Girard & Dean Jorgenson		
+???	EQ00000016	ORG	CORP	Bob Girard & James Rogers		
+???	EQ00000015	ORG	CORP	Bob Greene & Kirk Komstadius ( MA )		
+???	EQ00000011	ORG		Bob Hall		
+???	EQ00000008	ORG		Chad Stotz		
+???	EQ00000038	ORG		Daily News Mt. Adams Country Club PGA Professional Scott Galbraith		
+???	EQ00000033	ORG	CORP	David Stokes & Souta Nozaka		
+???	EQ00000019	ORG	CORP	Eric Inions & Ben Comer ( MA )		
+???	EQ00000039	ORG		Gonzaga University		
+???	EQ00000013	ORG		Individual Heads-up Jeff Bender		
+???	EQ00000001	ORG		Inions		
+???	EQ00000025	ORG	CORP	Jack Syverson & Buzz Blake		
+???	EQ00000005	ORG		James Rogers ( MA )		
+???	EQ00000024	ORG	CORP	Javier Valdez & Dean Schuler ( MA )		
+???	EQ00000006	ORG		Javier Valdez ( MA )		
+???	EQ00000022	ORG	CORP	Jeff Bender & Bob Hall		
+???	EQ00000004	ORG		Juan Guerrero		
+???	EQ00000026	ORG	CORP	Keith Grace & Stan Buckner ( MA )		
+???	EQ00000009	ORG		Keith Grace ( MA )		
+???	EQ00000014	ORG	CORP	Mike Barnick & Dean Schuler ( MA )		
+???	EQ00000029	ORG	CORP	Mike Barnick & James Rogers ( MA )		
+???	EQ00000027	ORG	CORP	Mike Clark & Juan Guerrero		
+???	EQ00000040	ORG		Mt. Adams Club Pro Scott Galbraith		
+???	EQ00000041	ORG		Mt. Adams Country Club		
+???	EQ00000010	ORG		Pete Veliz		
+???	EQ00000023	ORG	CORP	Randy Boast & Rudy Fernandez		
+???	EQ00000003	ORG		Rudy Fernandez		
+???	EQ00000034	ORG	CORP	Scott Galbraith & Ben Comer		
+???	EQ00000021	ORG	CORP	Scott Galbraith & Keith Grace		
+???	EQ00000012	ORG		Souta Nozaka		
+???	EQ00000017	ORG	CORP	Stan Buckner & Javier Valdez		
+???	EQ00000020	ORG	CORP	Steve Smythe & Dean Jorgenson		
+???	EQ00000032	ORG	CORP	Steve Smythe & Eric Inions		
+???	EQ00000031	ORG	CORP	Ty Stotz & Chad Stotz		
+???	EQ00000042	ORG	CORP	Webmaster Copyright Hawk Press Inc.		
+???	EQ00000002	ORG		heads-up		

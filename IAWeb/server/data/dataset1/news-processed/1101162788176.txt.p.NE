@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> wins big
+</P> 
+<P ID="2">Date Published to Web: <TIMEX TYPE="DATE">9/14/2004</TIMEX>
+</P><P ID="3"><ENAMEX TYPE="PERSON">Jesse Montelongo</ENAMEX> touched the ball just four times in <TIMEX TYPE="TIME">last night</TIMEX>'s freshman football game between <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> and <ENAMEX TYPE="LOCATION">Selah</ENAMEX>. Unbelievably, <ENAMEX TYPE="PERSON">Montelongo</ENAMEX> scored all four times.   <ENAMEX TYPE="PERSON">Montelongo</ENAMEX> and his teammates went on to thrash the <ENAMEX TYPE="ORGANIZATION">Selah High School</ENAMEX> freshman grid team, 53-0. <TIMEX TYPE="DATE">Monday</TIMEX> <TIMEX TYPE="TIME">evening</TIMEX>'s victory upped the Grizzly freshman team's record to 2-0 on the season. In the two games the Grizzly freshmen have played <TIMEX TYPE="DATE">this year</TIMEX>, they have outscored their opponents by a 98-13 margin.   <ENAMEX TYPE="PERSON">Montelongo</ENAMEX> scored the first touchdown of the night when he hauled in a 30-yard pass from <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> quarterback <ENAMEX TYPE="PERSON">Adrian Cantu</ENAMEX>. Later in the first quarter, <ENAMEX TYPE="PERSON">Montelongo</ENAMEX> returned a punt 44 yards into the end zone to increase <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>'s lead to 12-0. <ENAMEX TYPE="PERSON">Montelongo</ENAMEX> also scored a pair of TD's in the final period-the first coming on a 34-yard run and the second on a 73-yard breakaway.   All told <TIMEX TYPE="TIME">last night</TIMEX>, <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> gained 262 rushing yards. <ENAMEX TYPE="PERSON">Joseph Villanueva</ENAMEX> picked up 122 of the yards on 23 carries, and <ENAMEX TYPE="PERSON">Montelongo</ENAMEX> tallied 107 yards on the ground on just two totes.   <ENAMEX TYPE="PERSON">Cantu</ENAMEX> threw for 88 yards on 5-of-12 passing. He tossed four touchdown passes-two to <ENAMEX TYPE="PERSON">Frank Salcedo</ENAMEX> and one each to <ENAMEX TYPE="PERSON">Montelongo</ENAMEX> and <ENAMEX TYPE="PERSON">Nathan Cornelius</ENAMEX>.   The one other touchdown the Grizzly freshmen scored against <ENAMEX TYPE="LOCATION">Selah</ENAMEX> came at the end of the fourth quarter. <ENAMEX TYPE="PERSON">Diego Burgueno</ENAMEX> scampered 25 yards for the score.   Defensively, <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="PERSON">Coach Glenn Braman</ENAMEX> said he couldn't have asked for anything more out of his club. <ENAMEX TYPE="PERSON">Braman</ENAMEX> credits the defensive line for the shutout, saying "...the defensive line put a lot of pressure on <ENAMEX TYPE="LOCATION">Selah</ENAMEX>'s quarterback, especially defensive end <ENAMEX TYPE="PERSON">Andrew Rios</ENAMEX>, who had four or five sacks <TIMEX TYPE="TIME">last night</TIMEX>.   "<TIMEX TYPE="TIME">Last night</TIMEX>'s game will be a good stepping stone for <TIMEX TYPE="DATE">next week</TIMEX>'s game at <ENAMEX TYPE="LOCATION">Prosser</ENAMEX>," <ENAMEX TYPE="PERSON">Braman</ENAMEX> added.   
+</P>
+
+ 
+
+
+
+
+<P ID="4"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

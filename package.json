@@ -1,0 +1,33 @@
+{
+  "name": "cross-device-collab",
+  "version": "1.0.0",
+  "description": "This project utilizes the [gRPC framework](https://grpc.io/) to build real-time communications between two different applications.",
+  "main": "index.js",
+  "scripts": {
+    "build": "sh proto/build.sh",
+    "build:win": "sh proto/build-win.sh",
+    "start:proxy": "sh proxy/start.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtong2017/cross-device-collab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtong2017/cross-device-collab/issues"
+  },
+  "homepage": "https://github.com/wtong2017/cross-device-collab#readme",
+  "dependencies": {
+    "grpc": "^1.24.11",
+    "nearby-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/google-protobuf": "^3.15.6",
+    "grpc_tools_node_protoc_ts": "^5.3.2",
+    "grpc-tools": "^1.11.2",
+    "protoc-gen-grpc-web": "^1.4.0"
+  }
+}

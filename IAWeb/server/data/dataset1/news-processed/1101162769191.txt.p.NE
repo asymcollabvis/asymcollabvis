@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="ORGANIZATION">Snipes Mountain Restaurant</ENAMEX> to host <TIMEX TYPE="DATE">Nov. 2</TIMEX> dairy conference
+</P> 
+<P ID="2">Date Published to Web: <TIMEX TYPE="DATE">9/23/2004</TIMEX>
+</P><P ID="3">"Herd Management - The Key to Progress" is the theme of the <TIMEX TYPE="DATE">Tuesday, Nov. 2</TIMEX>, dairy conference that will be held at <ENAMEX TYPE="ORGANIZATION">Alderwood's Snipes Mountain Restaurant</ENAMEX>.   A dairy systems specialist with the <ENAMEX TYPE="ORGANIZATION">University of Minnesota Extension Service</ENAMEX>, <ENAMEX TYPE="PERSON">Jim Salfer</ENAMEX>, will present two talks. The first, from 9:05 to <TIMEX TYPE="TIME">10:30 a.m.</TIMEX>, will address why "Culling is Important." <ENAMEX TYPE="PERSON">Salfer</ENAMEX>'s second workshop session is entitled, "Minimizing Herd Replacement Costs," which will be presented from <TIMEX TYPE="TIME">10:50 a.m.</TIMEX> to <TIMEX TYPE="TIME">noon</TIMEX>.   <ENAMEX TYPE="PERSON">Salfer</ENAMEX>'s experience includes being a dairy nutritionist, a feed department manager, a district sales manager for an A.I. company and he has managed a dairy farm. He currently develops and implements educational programs that improve the profitability of dairy producers. <ENAMEX TYPE="PERSON">Salfer</ENAMEX>'s focus includes dairy cow longevity and using dairy production records to improve farm profitability. He holds a Bachelor's degree from <ENAMEX TYPE="ORGANIZATION">South Dakota State University</ENAMEX> and a Master's from the <ENAMEX TYPE="ORGANIZATION">University of Minnesota</ENAMEX>.   The <TIMEX TYPE="DATE">Nov. 2</TIMEX> dairy conference, which is open to all <ENAMEX TYPE="LOCATION">Yakima Valley</ENAMEX> dairy producers and those who hold an interest in the dairy field, will also feature <ENAMEX TYPE="PERSON">Jerry Olson</ENAMEX> as a guest speaker. Having grown up on a small dairy farm in <ENAMEX TYPE="LOCATION">Minnesota</ENAMEX>, <ENAMEX TYPE="PERSON">Olson</ENAMEX> went on to run a mixed animal practice for five years. After obtaining a Master's degree, he then accepted a position with <ENAMEX TYPE="ORGANIZATION">Colorado State University</ENAMEX>. <ENAMEX TYPE="PERSON">Olson</ENAMEX> has also served as an associate professor for the <ENAMEX TYPE="ORGANIZATION">College of Veterinary Medicine</ENAMEX> at the <ENAMEX TYPE="ORGANIZATION">University of Minnesota</ENAMEX>. <TIMEX TYPE="DATE">Four years ago</TIMEX>, <ENAMEX TYPE="PERSON">Olson</ENAMEX> accepted a position with Pharmacia Animal Health and is currently a senior veterinarian for <ENAMEX TYPE="ORGANIZATION">Pfizer AHG</ENAMEX>.   <ENAMEX TYPE="PERSON">Olson</ENAMEX>'s first workshop session, from 1 to <TIMEX TYPE="TIME">1:45 p.m.</TIMEX>, is entitled "Culling Solutions." He will present a second talk from 2 to <TIMEX TYPE="TIME">3 p.m.</TIMEX> dealing with "Tracking Culling Patterns and Progress."   Local dairy farmers interested in attending any or all of the <TIMEX TYPE="DATE">Nov. 2</TIMEX> sessions should call (509) 303-9614 for registration information.   
+</P>
+
+ 
+
+
+
+
+<P ID="4"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

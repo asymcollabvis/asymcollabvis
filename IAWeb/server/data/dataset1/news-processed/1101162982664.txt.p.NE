@@ -1,0 +1,15 @@
+
+<P ID="1">Speaker notes fairs are a reflection of a community
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">8/12/2004</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="LOCATION">GRANDVIEW</ENAMEX> - A fair, no matter where it's located, is more than just carnival rides and different food booths. Instead, it is a place where the community comes together to celebrate what makes the area special and unique.   <TIMEX TYPE="DATE">Wednesday</TIMEX> <TIMEX TYPE="TIME">afternoon</TIMEX>, <ENAMEX TYPE="PERSON">Greg Stewart</ENAMEX> with the <ENAMEX TYPE="LOCATION">Central Washington State Fair</ENAMEX> talked to members of the <ENAMEX TYPE="ORGANIZATION">Grandview Chamber of Commerce</ENAMEX> about what fairs can do for a community.   <ENAMEX TYPE="PERSON">Stewart</ENAMEX> said fairs can serve as everything from a place to showcase agriculture to a place to see friends and neighbors.   Fairs are also a place where young people can take on more responsibility. <ENAMEX TYPE="PERSON">Stewart</ENAMEX> said walking through the animal barns at the Yakima Valley Fair and Rodeo in <ENAMEX TYPE="LOCATION">Grandview</ENAMEX>, it is easy to see the young people who have taken on the responsibility of raising and training an animal.   "They're responsible for a life," <ENAMEX TYPE="PERSON">Stewart</ENAMEX> said. "For taking care of that animal."   He said experiences like that will stay with people the rest of their lives.   "It's learning social skills, developing memories and having a good time," <ENAMEX TYPE="PERSON">Stewart</ENAMEX> said.   He then challenged the <ENAMEX TYPE="ORGANIZATION">Chamber</ENAMEX> members, who held their meeting at the fairgrounds, to look around them. <ENAMEX TYPE="PERSON">Stewart</ENAMEX> pointed to several of the food booths, noting that money being raised at the different booths will be going to causes that will continue to affect the community even after the fair closes for the season. <ENAMEX TYPE="PERSON">Stewart</ENAMEX> pointed to the volunteer firefighters using their burger booth to raise money for their cause, as well as to the <ENAMEX TYPE="ORGANIZATION">Rotary Club</ENAMEX> and another food stand that is raising money to help students pay for college.   "That is the impact it has on a community," <ENAMEX TYPE="PERSON">Stewart</ENAMEX> said.   He added that fairs also serve as a place for the community to converge.   "It's a place people go to meet others," he said. "To see people they haven't seen in a long time."   <ENAMEX TYPE="PERSON">Stewart</ENAMEX> also took a minute to congratulate the <ENAMEX TYPE="ORGANIZATION">Yakima Valley Fair and Rodeo Board</ENAMEX>, as well as the <ENAMEX TYPE="ORGANIZATION">Chamber of Commerce</ENAMEX>, on all of the hard work they have done to put together <TIMEX TYPE="DATE">this year</TIMEX>'s <ENAMEX TYPE="LOCATION">Lower Valley</ENAMEX> fair.   "<ENAMEX TYPE="LOCATION">Truly</ENAMEX>, it does look great," <ENAMEX TYPE="PERSON">Stewart</ENAMEX> said.
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

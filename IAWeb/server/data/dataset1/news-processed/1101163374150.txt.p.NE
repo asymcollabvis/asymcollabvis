@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="PERSON">Mabton</ENAMEX>'s success with <ENAMEX TYPE="LOCATION">AP</ENAMEX> program to be detailed at national meeting
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Jamie Smart</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">4/27/2002</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="PERSON">MABTON</ENAMEX> - The <ENAMEX TYPE="PERSON">Mabton Jr.</ENAMEX>/Sr. <ENAMEX TYPE="ORGANIZATION">High School</ENAMEX> teaching staff's unique approach to offering <ENAMEX TYPE="PERSON">Mabton</ENAMEX>'s college bound students upper level courses will be shared with other small schools at the <ENAMEX TYPE="ORGANIZATION">National College Board</ENAMEX>'s <ENAMEX TYPE="LOCATION">Western Regional Small Schools Conference</ENAMEX> to be held in <ENAMEX TYPE="LOCATION">San Jose</ENAMEX>, <ENAMEX TYPE="LOCATION">Calif.</ENAMEX> <TIMEX TYPE="DATE">later this week</TIMEX>.   "We are one of only two small school districts being asked to share our advanced placement success story at the small schools summit," said <ENAMEX TYPE="ORGANIZATION">Mabton School District</ENAMEX> Superintendent <ENAMEX TYPE="PERSON">Kevin Chase</ENAMEX>. He said the <ENAMEX TYPE="ORGANIZATION">College Board</ENAMEX> is responsible for the development of the PSAT and <TIMEX TYPE="DATE">SAT</TIMEX> examinations used by colleges to rank students seeking college entrance.   He said the <ENAMEX TYPE="PERSON">Mabton Jr.</ENAMEX>/Sr. <ENAMEX TYPE="ORGANIZATION">High School</ENAMEX> staff, led by English teacher <ENAMEX TYPE="PERSON">Tamara Steen</ENAMEX>, has been working for the past several years to create a method of offering advanced studies to more of its students. In the process, the staff has begun to reach down to the junior high grades to create a variety of approaches to attract the imagination of those students wishing to excel.   <ENAMEX TYPE="PERSON">Steen</ENAMEX> will explain how the small school is now able to offer its juniors and seniors college- level English classes. <ENAMEX TYPE="PERSON">Steen</ENAMEX> will also explain how the process of co-mingling the juniors and seniors in a two-year advance placement plan is being adapted at the middle school level.   She said work is now being done to create advanced programs for math and science through the use of the district's <TIMEX TYPE="DATE">summer</TIMEX> academy program. She said the <TIMEX TYPE="DATE">summer</TIMEX> academy program gives those students who are showing potential for advanced learning a six-week enhanced course of study.   "We are having exciting results with this approach and our students are becoming very competitive about being in the <ENAMEX TYPE="LOCATION">AP</ENAMEX> programs," <ENAMEX TYPE="PERSON">Steen</ENAMEX> said.   Attending the conference to be held <TIMEX TYPE="DATE">April 29</TIMEX> and 30 will be <ENAMEX TYPE="PERSON">Steen</ENAMEX>, <ENAMEX TYPE="PERSON">Chase</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Mabton High School Principal Keith Morris</ENAMEX> and <ENAMEX TYPE="PERSON">Bob Thomas</ENAMEX>, high school counselor   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

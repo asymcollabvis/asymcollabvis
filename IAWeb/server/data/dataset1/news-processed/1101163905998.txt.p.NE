@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="ORGANIZATION">Mabton School District</ENAMEX> seeks voter approval for <NUMEX TYPE="MONEY">$195,000</NUMEX> levy that will be on <TIMEX TYPE="DATE">Feb. 3</TIMEX> ballot
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Jamie Smart</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">12/31/2003</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="LOCATION">MABTON</ENAMEX> - Saying a proposed maintenance and operations levy is crucial to the education of its students, <ENAMEX TYPE="ORGANIZATION">Mabton School District</ENAMEX> officials are asking voters to approve a <NUMEX TYPE="MONEY">$195,000</NUMEX> levy on <TIMEX TYPE="DATE">Feb. 3</TIMEX>.   The levy amount offers a reduction in assessed valuation for the voters, while providing much need funds to operate the district, said <ENAMEX TYPE="PERSON">Kevin Chase</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Mabton School District</ENAMEX> superintendent.   He said the new levy, if approved, would total <NUMEX TYPE="MONEY">$1.69</NUMEX> per <NUMEX TYPE="MONEY">$1,000</NUMEX> of assessed valuation. That would be less than the <NUMEX TYPE="MONEY">$1.93</NUMEX> per <NUMEX TYPE="MONEY">$1,000</NUMEX> assessment generated from the <TIMEX TYPE="DATE">2000</TIMEX> levy, he explained.   The levy will be used to continue basic services to the district, such as transportation, athletic programs, extracurricular activities, as a well as upkeep of facilities, <ENAMEX TYPE="PERSON">Chase</ENAMEX> said.   <ENAMEX TYPE="PERSON">Chase</ENAMEX> said voters' approval of the levy is necessary in order for the district to receive state equalization money. If the voters pass the levy, the state provides additional money for those districts, such as <ENAMEX TYPE="LOCATION">Mabton</ENAMEX>, which have a low tax base.   "In <ENAMEX TYPE="LOCATION">Mabton</ENAMEX>'s case, the state will give us <NUMEX TYPE="MONEY">$695,778</NUMEX> annually," <ENAMEX TYPE="PERSON">Chase</ENAMEX> said.   "If we don't pass the levy we can't get the state money and it will go to other school districts," he added.   "The state matching money is a very important part of <ENAMEX TYPE="LOCATION">Mabton</ENAMEX>'s budget and is absolutely necessary for maintaining the level of services we provide in many areas," he said.   <ENAMEX TYPE="PERSON">Chase</ENAMEX> said the district is asking that the levy be effective for four years, which he said will guarantee the taxpayers at least a level tax rate for the <TIMEX TYPE="DATE">next four years</TIMEX>.   "The rate will likely go lower as evaluations are done on property in the district. We understand the poor state of the economy for the agricultural industry and we want to keep taxes from increasing for at least the <TIMEX TYPE="DATE">next four years</TIMEX> by running a four-year levy," <ENAMEX TYPE="PERSON">Chase</ENAMEX> said.   . <ENAMEX TYPE="PERSON">Jamie Smart</ENAMEX> can be contacted at   (509) 837-4500, or you can e-mail her at jSmart@hawkpress.com   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

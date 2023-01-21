@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>  <date>Tue Dec 16 15:18:02 2003</date>
+  <date>200312</date>
+  <content>The brain keeps track of the movements it makes so as
+to process sensory input accurately and coordinate
+complex movements gracefully. In this chapter we
+review the brain's strategies for keeping track of
+fast, saccadic eye movements. One way it does this is
+by monitoring copies of saccadic motor commands, or
+corollary discharges. It has been difficult to
+identify corollary discharge signals in the primate
+brain, although in some studies the influence of
+corollary discharge, for example on visual processing,
+has been found. We propose four criteria for
+identifying corollary discharge signals in primate
+brain based on our experiences studying a pathway from
+superior colliculus, in the brainstem, through
+mediodorsal thalamus to frontal eye field, in the
+prefrontal cortex. First, the signals must originate
+from a brain structure involved in generating
+movements. Second, they must begin just prior to
+movements and represent spatial attributes of the
+movements. Third, eliminating the signals should not
+impair movements in simple tasks not requiring
+corollary discharge. Fourth, eliminating the signals
+should, however, disrupt movements in tasks that
+require corollary discharge, such as a double-step
+task in which the monkey must keep track of one
+saccade in order to correctly generate another.
+Applying these criteria to the pathway from superior
+colliculus to frontal eye field, we concluded that it
+does indeed convey corollary discharge signals. The
+extent to which cerebral cortex actually uses these
+signals, particularly in the realm of sensory
+perception, remains unknown pending further studies.
+Moreover, many other ascending pathways from brainstem
+to cortex remain to be explored in behaving monkeys,
+and some of these, too, may carry corollary discharge
+signals.
+ 
+</content>
+
+</doc>

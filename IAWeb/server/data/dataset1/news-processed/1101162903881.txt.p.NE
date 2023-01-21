@@ -1,0 +1,15 @@
+
+<P ID="1">SIED funds to help jump start wine and grape education center
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">8/25/2004</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="LOCATION">GRANDVIEW</ENAMEX> - The <ENAMEX TYPE="ORGANIZATION">Yakima Valley Grape</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Wine Education Center</ENAMEX> in <ENAMEX TYPE="LOCATION">Grandview</ENAMEX> is another step closer to completion, thanks to monies from the Supporting Investment in <ENAMEX TYPE="ORGANIZATION">Economic Diversity</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">SIED</ENAMEX>) <ENAMEX TYPE="ORGANIZATION">Fund</ENAMEX>.   <TIMEX TYPE="DATE">Tuesday</TIMEX> <TIMEX TYPE="TIME">morning</TIMEX>, <ENAMEX TYPE="LOCATION">Yakima County</ENAMEX> commissioners approved an <ENAMEX TYPE="ORGANIZATION">SIED</ENAMEX> agreement with the Port of <ENAMEX TYPE="LOCATION">Grandview</ENAMEX> for work on the education center, which is set to be built in the old-Safeway building sitting at the corner of <ENAMEX TYPE="LOCATION">Wine Country</ENAMEX> and <ENAMEX TYPE="LOCATION">Grandridge</ENAMEX> roads in <ENAMEX TYPE="LOCATION">Grandview</ENAMEX>.   The agreement approved by the commissioners provides the Port of <ENAMEX TYPE="LOCATION">Grandview</ENAMEX> with a <NUMEX TYPE="MONEY">$165,000</NUMEX> loan from the <ENAMEX TYPE="ORGANIZATION">SIED</ENAMEX> fund, as well as a <NUMEX TYPE="MONEY">$165,000</NUMEX> grant from the fund. <ENAMEX TYPE="PERSON">Colleen Byam</ENAMEX>, president of the Port of <ENAMEX TYPE="LOCATION">Grandview</ENAMEX>, explained that the loan will have to be utilized before the grant funds are made available.   <ENAMEX TYPE="PERSON">Byam</ENAMEX> said when <ENAMEX TYPE="ORGANIZATION">Yakima Valley Community College</ENAMEX> purchased the old-Safeway building several months ago, the Port decided to show its support of the project by applying for the <ENAMEX TYPE="ORGANIZATION">SIED</ENAMEX> funds. She explained that only cities and port districts can apply for <ENAMEX TYPE="ORGANIZATION">SIED</ENAMEX> money.   <ENAMEX TYPE="PERSON">Byam</ENAMEX> said one of the reasons the Port of <ENAMEX TYPE="LOCATION">Grandview</ENAMEX> stepped forward to help the jump start the project is because they see the grape and wine education center also serving as a possible business incubator. She explained that the college plans to offer students hands-on experience at the center, including everything from fermenting the wine to bottling and selling it. She noted that this could also serve as a nice incubator, offering possible wine makers a place to utilize equipment they couldn't afford to purchase on their own.   <ENAMEX TYPE="PERSON">Byam</ENAMEX> said regardless, the education center should prove to be a good training ground for students and should also mean more local residents going into the wine industry.   . <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX> can be contacted at (509) 837-4500, or e-mail her at eOlmsen@hawkpress.com   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

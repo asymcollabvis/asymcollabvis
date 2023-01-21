@@ -1,0 +1,5 @@
+/* CSS-Definitionsdatei, die SiteStyle -Stylesheets enthält */
+BODY { color: rgb(0,0,0); background-color: rgb(255,255,255);}
+ A:link { color: rgb(0,0,255);}
+ A:visited { color: rgb(153,0,0);}
+ 

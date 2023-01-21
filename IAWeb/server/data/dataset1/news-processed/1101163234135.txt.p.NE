@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="ORGANIZATION">Grandview</ENAMEX> graduates 138 prep students
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">6/7/2002</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="LOCATION">GRANDVIEW</ENAMEX> - <TIMEX TYPE="DATE">Saturday</TIMEX> <TIMEX TYPE="TIME">afternoon</TIMEX>, as the 138 graduates of <ENAMEX TYPE="ORGANIZATION">Grandview High School</ENAMEX> marched to their seats dressed in a mix of crimson and gray gowns, the faces of the graduates told the story. There were smiles, looks of pride and even a few sad faces, as the students prepared to walk across the stage and receive their diplomas.   "Most of you have imagined <TIMEX TYPE="DATE">this day</TIMEX> since starting high school," said class speaker and former <ENAMEX TYPE="ORGANIZATION">Grandview High School</ENAMEX> English teacher <ENAMEX TYPE="PERSON">Loyal Leas</ENAMEX>. "How elated, excited and even anxious you must be."   <ENAMEX TYPE="PERSON">Leas</ENAMEX> went on to encourage the graduates to find the small joys in life, noting that one day they could look back at their high school years and remember the small things that made them happy.   "Among those happy memories you may or may not include the days in my classroom," <ENAMEX TYPE="PERSON">Leas</ENAMEX> said.   She continued by telling that graduates that a person can't live their life from big moment to big moment. She said not to wait for those big things to be happy.   "Find joy in the small occasions," <ENAMEX TYPE="PERSON">Leas</ENAMEX> said.   She concluded her address by telling the students to try to do their best and to remember the importance of working to improve their own small piece of the world.   <ENAMEX TYPE="PERSON">Salutatorian Jeanette Villanueva</ENAMEX> told her fellow classmates that graduation marks the beginning of a new chapter in each of their lives.   "Some of us may be sitting here saying, this is it, this is the end," <ENAMEX TYPE="PERSON">Villanueva</ENAMEX> said. "But we have a new beginning to look forward to."   She told her fellow graduates that as a class they are ready to begin writing their own story, ready to take chances and ready to achieve.   "We're going to show the world, si se puede," <ENAMEX TYPE="PERSON">Villanueva</ENAMEX> said, which means yes, we can.   <ENAMEX TYPE="PERSON">Valedictorian Meghan Waddle</ENAMEX> also challenged her fellow classmates to make a difference.   She said as a graduating class, the students should try to work together to make peace in their community, the nation and the world.   "Let's make the world a brighter place," <ENAMEX TYPE="PERSON">Waddle</ENAMEX> said.   After a short address by <ENAMEX TYPE="ORGANIZATION">Grandview High School Principal Arcella Hall</ENAMEX> and Superintendent <ENAMEX TYPE="PERSON">John Mathis</ENAMEX>, each of the 138 students slowly marched across the stage, collected the diplomas and celebrated their latest accomplishment.   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

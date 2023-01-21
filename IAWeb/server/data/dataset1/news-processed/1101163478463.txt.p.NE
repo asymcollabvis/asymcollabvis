@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="ORGANIZATION">Mabton</ENAMEX> police to increase neighborhood patrols
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Jamie Smart</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">3/24/2002</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="LOCATION">MABTON</ENAMEX> - The <ENAMEX TYPE="ORGANIZATION">Mabton Police Department</ENAMEX> will be stepping up its neighborhood patrols in the coming weeks, following a citizen's complaint about inconsiderate motorists.   <ENAMEX TYPE="ORGANIZATION">Mabton Police</ENAMEX> Chief <ENAMEX TYPE="PERSON">Raul Almeida</ENAMEX> made the announcement during <TIMEX TYPE="DATE">Tuesday</TIMEX> <TIMEX TYPE="TIME">night</TIMEX>'s <ENAMEX TYPE="ORGANIZATION">Mabton City Council</ENAMEX> meeting, after a <ENAMEX TYPE="LOCATION">North Mabton</ENAMEX> resident reported her concerns about illegal parking in her neighborhood to the <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX>.   <ENAMEX TYPE="PERSON">Norma Acosta</ENAMEX> said the motorists in her neighborhood have destroyed alley side fences, while blocking the alley way near a busy apartment building.   <ENAMEX TYPE="PERSON">Almeida</ENAMEX> said while citations could only be given if people were trespassing, his officers would be talking with the residents in the area.   <ENAMEX TYPE="PERSON">Acosta</ENAMEX> said she was worried that someone might be injured in the area. She said the motorists all seem to park under her tree, which borders the alley way near the Mabton Gardens apartment building.   "They just refuse to move," she told the <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX>. <ENAMEX TYPE="PERSON">Acosta</ENAMEX> said the motorists have repeatedly damaged her property and that of her neighbors in the area.   <ENAMEX TYPE="PERSON">Acosta</ENAMEX> was advised to put up "no trespassing" signs to enable the police officers to cite the offending motorists.   <ENAMEX TYPE="PERSON">Almeida</ENAMEX> said his officers traditionally increase their patrols of neighborhoods in the <TIMEX TYPE="DATE">spring</TIMEX> as more people starting staying outside during the longer spring and <TIMEX TYPE="DATE">summer</TIMEX> evenings.   He said the officers' presence would aid in deterring misdemeanors and other illegal activities.   In addition to increased police patrols, <ENAMEX TYPE="LOCATION">Mabton</ENAMEX> residents will soon see the return of the city animal control officer.   The <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX> announced its intention to reinstate animal control services beginning the <TIMEX TYPE="DATE">first of April</TIMEX>. During the past few weeks, city hall has received an increased number of animal complaints from residents.   "Dogs are not such an issue in the <TIMEX TYPE="DATE">winter</TIMEX>," Mayor <ENAMEX TYPE="PERSON">David Contradt</ENAMEX> said. "But each spring it appears as though our dog population explodes," he added.   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

@@ -1,0 +1,15 @@
+
+<P ID="1">Working Stiff
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">5/11/2002</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="LOCATION">GRANDVIEW</ENAMEX> - Although <ENAMEX TYPE="PERSON">Carol Bardwell</ENAMEX> has been a guidance counselor at <ENAMEX TYPE="ORGANIZATION">Grandview High School</ENAMEX> for less than a year, she has been helping students overcome both personal and academic issues for eight years.   <ENAMEX TYPE="PERSON">Bardwell</ENAMEX>, who previously worked as a counselor at <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">High School</ENAMEX>, also spent time working as an English teacher at the school.   <ENAMEX TYPE="PERSON">Bardwell</ENAMEX>, a <ENAMEX TYPE="ORGANIZATION">Grandview High School</ENAMEX> graduate, said when it came time to earn her Master's degree she decided that counseling would be a good match for her work in the classroom. She added that after earning her Master's degree from <ENAMEX TYPE="ORGANIZATION">Washington State University</ENAMEX> in the Tri-Cities she continued to teach for another three years. It wasn't until later that she pursued a job as a guidance counselor.   <ENAMEX TYPE="PERSON">Bardwell</ENAMEX> said her current job includes everything from working with students on both academic and personal issues, as well as helping students plan for their life after high school. It's this close tie to the students that <ENAMEX TYPE="PERSON">Bardwell</ENAMEX> enjoys, noting that her favorite part of the job is working with the students.   <ENAMEX TYPE="PERSON">Bardwell</ENAMEX> said she is enjoying her time at <ENAMEX TYPE="ORGANIZATION">Grandview High School</ENAMEX>, noting that with a student population roughly half the size of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>'s there seems to be a close knit feel to the school.   "I really like the size of the student body," she said. <ENAMEX TYPE="PERSON">Bardwell</ENAMEX> also noted that the staff and administration at the building have also been very welcoming.   <ENAMEX TYPE="PERSON">Bardwell</ENAMEX> said when it comes to her position, she tries to keep an open door policy, which often times means pushing paperwork aside to help a student in need.   She said during the course of a regular day she will typically have several meetings scheduled with either parents or students, as well as time to work on things ranging from reports to credit evaluations.   When the bell rings signifying the <TIMEX TYPE="DATE">end of the day</TIMEX> for students, <ENAMEX TYPE="PERSON">Bardwell</ENAMEX> said she is usually just getting started as far has committee meetings are concerned. She said she typically has a committee meeting of sorts after school, just about every day.   <ENAMEX TYPE="PERSON">Bardwell</ENAMEX> lives in <ENAMEX TYPE="LOCATION">Grandview</ENAMEX> with her husband <ENAMEX TYPE="PERSON">Craig</ENAMEX> and their children <ENAMEX TYPE="PERSON">Chet and Brendan</ENAMEX>, who are in third and second grade, respectively.
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

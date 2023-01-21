@@ -1,0 +1,29 @@
+/* CSS-Definitionsdatei, die Site-weite Stylesheets enth‰lt */
+.Heading 4 { font-weight: bold;}
+ .Heading 5 { font-size: x-small; font-weight: bold;}
+ .Subheads { font-family: 'Times New Roman', Times, 'Times NewRoman', serif; font-size: x-small;}
+ .Quotes { font-family: 'Copperplate Gothic Bold', sans-serif; font-size: medium; font-style: italic;}
+ .Heading 6 { font-size: xx-small; font-weight: bold;}
+ .Footnotes { font-family: 'Lucida Sans Unicode', sans-serif; font-size: x-small; list-style-type: decimal;}
+ .Titel { font-size: x-small; font-style: italic;}
+ .Danksagung { font-size: x-small; font-weight: bold; text-align: center;}
+ .Caption { font-family: 'Lucida Sans Unicode', sans-serif; font-size: x-small; font-style: italic;}
+ .Code { font-family: 'Bookman Old Style', serif;}
+ .Address { font-style: italic;}
+ .Untertitel { font-size: x-small;}
+ .‹berschrift1 { font-size: x-large; font-weight: bold;}
+ .‹berschrift2 { font-size: large; font-weight: bold;}
+ .‹berschrift3 { font-size: medium; font-weight: bold;}
+ .‹berschrift4 { font-weight: bold;}
+ .Credits { font-family: 'Copperplate Gothic Bold', sans-serif; font-size: x-small; font-weight: bold; text-align: center;}
+ .‹berschrift5 { font-size: x-small; font-weight: bold;}
+ .‹berschrift6 { font-size: large; font-weight: bold;}
+ .Zitate { font-size: medium; font-style: italic;}
+ .Fuﬂnoten { font-size: x-small;}
+ .Formatted { font-family: 'Franklin Gothic Medium', sans-serif;}
+ .Heading 1 { font-size: x-large; font-weight: bold;}
+ .Heading 2 { font-size: large; font-weight: bold;}
+ .‹berschrift { font-size: x-large; font-weight: bold;}
+ .Adresse { font-style: italic;}
+ .Heading 3 { font-size: medium; font-weight: bold;}
+ 

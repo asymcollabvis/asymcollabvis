@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="ORGANIZATION">Mabton High School</ENAMEX> honors spring athletes
+</P> 
+<P ID="2">Date Published to Web: <TIMEX TYPE="DATE">6/8/2002</TIMEX>
+</P><P ID="3"><ENAMEX TYPE="LOCATION">MABTON</ENAMEX> - The staff at <ENAMEX TYPE="ORGANIZATION">Mabton High School</ENAMEX> honored some of its best and brightest of the <TIMEX TYPE="DATE">past spring</TIMEX> sports season <TIMEX TYPE="DATE">last Thursday</TIMEX> <TIMEX TYPE="TIME">night</TIMEX>, <TIMEX TYPE="DATE">June 3</TIMEX>.   The spring sports ceremony at <ENAMEX TYPE="LOCATION">Mabton</ENAMEX> was started off with a barbecue held by Project Success coordinator <ENAMEX TYPE="PERSON">Lorri Brown</ENAMEX>. The barbecue was held for the student athletes and their families.   The spring sports coaches then recognized some of their most talented student athletes of the past season.   Lady <ENAMEX TYPE="PERSON">Viking</ENAMEX> fastpitch coach <ENAMEX TYPE="PERSON">Jesus Sustaita</ENAMEX> handed out awards to two of his players for the improvements they showed during the past season. Celida Diaz was named the most improved player on <TIMEX TYPE="DATE">this year</TIMEX>'s Lady <ENAMEX TYPE="PERSON">Viking</ENAMEX> squad while <ENAMEX TYPE="PERSON">Diana Lopez</ENAMEX> was named the team's most valuable player. Jesica Orozco, <ENAMEX TYPE="PERSON">Diana Lopez</ENAMEX> and <ENAMEX TYPE="PERSON">Michelle Tellez</ENAMEX> earned all league recognitions for the Greater Columbia 'B' <ENAMEX TYPE="ORGANIZATION">League</ENAMEX> this <TIMEX TYPE="DATE">past spring</TIMEX> season.   Long-time Mabton baseball coach <ENAMEX TYPE="PERSON">Kerry Snodgrass</ENAMEX> gave out the coaches award to <ENAMEX TYPE="PERSON">Javier Galvan</ENAMEX>. <ENAMEX TYPE="PERSON">Andrew Tellez</ENAMEX> received the most improved player honors on <TIMEX TYPE="DATE">this year</TIMEX>'s <ENAMEX TYPE="LOCATION">Mabton</ENAMEX> baseball team. <ENAMEX TYPE="PERSON">Galvan</ENAMEX> also earned all league honors in the Greater Columbia 'B' <ENAMEX TYPE="ORGANIZATION">League</ENAMEX>.   The male track and field athlete of the year was <ENAMEX TYPE="PERSON">Max Ramirez</ENAMEX>. Female track and field athlete of the year honors went to <ENAMEX TYPE="PERSON">Cassandra Geertsma</ENAMEX>. Both <ENAMEX TYPE="PERSON">Viking</ENAMEX> athletes received the honor from their coach <ENAMEX TYPE="PERSON">Rob Roettger</ENAMEX>.   <ENAMEX TYPE="PERSON">Webster Lopez</ENAMEX> and <ENAMEX TYPE="PERSON">Geertsma</ENAMEX> also received certificates from the <ENAMEX TYPE="ORGANIZATION">Washington Interscholastic Activities Association</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">WIAA</ENAMEX>). The two earned the honors for qualifying for the 'B' <ENAMEX TYPE="LOCATION">State</ENAMEX> track and field meet. <ENAMEX TYPE="PERSON">Lopez</ENAMEX> earned a ninth place finish in the 3,200-meter run. <ENAMEX TYPE="PERSON">Geertsma</ENAMEX> competed in the long jump at <ENAMEX TYPE="LOCATION">State</ENAMEX>.   
+</P>
+
+ 
+
+
+
+
+<P ID="4"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

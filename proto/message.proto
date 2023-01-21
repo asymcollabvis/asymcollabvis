@@ -1,0 +1,263 @@
+syntax = "proto3";
+
+message Position {
+  float x = 1;
+  float y = 2;
+  float z = 3;
+}
+
+message Rotation {
+  float x = 1;
+  float y = 2;
+  float z = 3;
+  float w = 4;
+}
+
+message Scale {
+  float x = 1;
+  float y = 2;
+  float z = 3;
+}
+
+message Color {
+  float x = 1;
+  float y = 2;
+  float z = 3;
+}
+
+message SpatialInfo {
+	Position position = 1;
+	Rotation rotation = 2;
+	Scale scale = 3;
+}
+
+message Frustum {
+  Position n1 = 1;
+  Position n2 = 2;
+  Position n3 = 3;
+  Position n4 = 4;
+  Position f1 = 5;
+  Position f2 = 6;
+  Position f3 = 7;
+  Position f4 = 8;
+}
+
+message UserInfo {
+  enum ClientType {
+    DESKTOP = 0;
+    VR = 1;
+  }
+  string id = 1;
+  ClientType type = 2;
+  string roomId = 3;
+  SpatialInfo headSpatialInfo = 4;
+  SpatialInfo leftControllerSpatialInfo = 5;
+  SpatialInfo rightControllerSpatialInfo = 6;
+  Frustum frustum = 7;
+  string documentId = 8;
+  string dataset = 9;
+  SpatialInfo graphSpatialInfo = 10;
+  SpatialInfo documentPanelSpatialInfo = 11;
+  repeated string nearCursorNodeIds = 12;
+  repeated float nearCursorNodeWeights = 13;
+}
+
+message UserList {
+  repeated UserInfo users = 1;
+}
+
+message Node {
+  string roomId=1;
+  string id=2;
+  SpatialInfo spatialInfo = 3;
+  string name = 4;
+  string data = 5;
+  string createdFrom = 6;
+  string createdBy = 7;
+  repeated string highlightedBy = 8;
+  repeated DocumentReference references = 9;
+  string updatedBy = 10;
+}
+
+message DocumentReference {
+  string docId = 1;
+  int32 startIndex = 2;
+  int32 endIndex = 3;
+  string createdBy = 4;
+}
+
+message NodeSpatialInfo {
+  string roomId=1;
+  string id=2;
+  SpatialInfo spatialInfo = 3;
+}
+
+message NodeList {
+  repeated NodeSpatialInfo SpatialInfos = 1;
+  string roomId = 2;
+  string userId = 3;
+}
+
+message Link {
+  int32 source = 1;
+  int32 target = 2;
+  string id=3;
+  string name = 4;
+  string data = 5;
+  string roomId=6;
+  string createdFrom = 7;
+  string createdBy = 8;
+  string updatedBy = 9;
+}
+
+message LinkList {
+  repeated Link links = 1;
+}
+
+message GraphViewData {
+  repeated Node nodes = 1;
+  repeated Link links = 2;
+  SpatialInfo spatialInfo = 3;
+}
+
+message ClientActions {
+  string userId = 1;
+  repeated int32 clickedNodes = 2;
+  repeated int32 hoveredNodes = 3;
+  string roomId = 4;
+}
+
+message HighlightedList {
+  repeated int32 highlighted = 1;
+}
+
+message ServerNodesStatus {
+  map<string, HighlightedList> hightlighted = 1;
+}
+
+message EmptyMessage {
+	bool isRecieved = 1;
+}
+
+message InitialRequest {
+  enum ClientViewType {
+    VIEW_2D = 0;
+    VIEW_3D = 1;
+  }
+  ClientViewType RequestedViewType = 1;
+  string userId = 2;
+  string roomId = 3;
+}
+
+message InitialGraphData {
+  GraphViewData graphViewData = 1;
+  ServerNodesStatus nodesStatus = 2;
+}
+
+message Room {
+  string id=1;
+  repeated UserInfo users = 2;
+}
+
+message RoomList {
+  repeated Room rooms = 1;
+}
+
+message JoinResponse {
+  string error = 1;
+  string msg = 2;
+}
+
+message ServerGraphStatus {
+  ServerNodesStatus nodesStatus = 1;
+  InitialGraphData initialGraphData = 2;
+}
+
+message Document {
+  string id=1;
+  string title=2;
+  string date=3;
+  string author=4;
+  string content = 5;
+  string fileName = 6;
+}
+
+message DocumentList {
+  repeated Document documents = 1;
+}
+
+message IdList {
+  repeated string ids = 1;
+}
+
+message DocumentState {
+  map<string, IdList> documentStates = 1;
+}
+
+message RequestById {
+  string id=1;
+  string userId=2;
+  string roomId=3;
+}
+
+message BoardcastMessage {
+  enum Action {
+    HIGHLIGHT = 0;
+  }
+  string msg = 1;
+  string userId = 2;
+  Action action = 3;
+  string roomId = 4;
+}
+
+message ReplayMessage {
+  string msg = 1;
+  string userId = 2;
+  string roomId = 3;
+}
+
+message ReplayRecord {
+  string userId = 1;
+  string roomId = 2;
+}
+
+message ReplayList {
+  repeated ReplayRecord records = 1;
+}
+
+service EchoService {
+  rpc GetInitialGraphData(InitialRequest) returns (InitialGraphData);
+  rpc UpdateNodesStatus(ClientActions) returns (ServerNodesStatus);
+
+  rpc GetGraphData(RequestById) returns (stream GraphViewData);
+  rpc GetNodes(InitialRequest) returns (stream NodeList);
+  rpc GetLinks(RequestById) returns (stream LinkList);
+  rpc GetNodesStatus(RequestById) returns (stream ServerNodesStatus);
+  
+  rpc GetAllUsers(EmptyMessage) returns (stream UserList) {};
+  rpc GetAllUsersByRoomId(RequestById) returns (stream UserList) {};
+  rpc GetAllRooms(EmptyMessage) returns (stream RoomList) {};
+  
+  rpc Join(UserInfo) returns (UserInfo) {};
+  rpc Leave(UserInfo) returns (EmptyMessage) {};
+  rpc UpdateUserStatus(UserInfo) returns (EmptyMessage) {};
+  
+  rpc AddNode(Node) returns (Node) {};
+  rpc UpdateNode(Node) returns (EmptyMessage);
+  rpc RemoveNode(Node) returns (EmptyMessage) {};
+  rpc MergeNodes(NodeList) returns (EmptyMessage) {};
+  rpc AddLink(Link) returns (EmptyMessage) {};
+  rpc UpdateLink(Link) returns (EmptyMessage);
+  rpc RemoveLink(Link) returns (EmptyMessage) {};
+
+  rpc GetDoument(RequestById) returns (Document) {};
+  rpc UpdateDocumentState(RequestById) returns (EmptyMessage) {};
+  rpc GetAllDouments(RequestById) returns (stream DocumentList) {};
+  rpc GetDocumentState(RequestById) returns (stream DocumentState) {};
+
+  rpc SendBoardcastMessage(BoardcastMessage) returns (EmptyMessage) {};
+  rpc GetBoardcastMessage(RequestById) returns (stream BoardcastMessage) {};
+
+  rpc GetReplayList(RequestById) returns (ReplayList) {};
+  rpc GetReplay(ReplayMessage) returns (stream ReplayMessage) {};
+}

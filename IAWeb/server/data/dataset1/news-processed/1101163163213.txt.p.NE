@@ -1,0 +1,15 @@
+
+<P ID="1">Traffic safety fee set to increase
+</P> 
+<P ID="2">Date Published to Web: <TIMEX TYPE="DATE">6/25/2004</TIMEX>
+</P><P ID="3">The 2004-05 school year will see an increase in the fee for traffic safety classes. <TIMEX TYPE="DATE">Thursday</TIMEX> <TIMEX TYPE="TIME">night</TIMEX>, members of the <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School Board</ENAMEX> voted to increase the fee from <NUMEX TYPE="MONEY">$275</NUMEX> per student to <NUMEX TYPE="MONEY">$285</NUMEX>.   The increase in the fee for traffic safety will go toward helping cover an increase in the hourly rate and benefit costs for those who teach the class.      <ENAMEX TYPE="ORGANIZATION">Board</ENAMEX> approves lunch fee increase   <TIMEX TYPE="DATE">Thursday</TIMEX> <TIMEX TYPE="TIME">night</TIMEX>, <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School Board</ENAMEX> members voted to approve an increase in the cost of lunch throughout the district.   The prices will increase by 10¢ at each of the schools. This will bring the cost of lunch at elementary schools from <NUMEX TYPE="MONEY"><NUMEX TYPE="MONEY">$1.45</NUMEX> to <NUMEX TYPE="MONEY">$1.55</NUMEX></NUMEX>, and at the secondary schools from <NUMEX TYPE="MONEY"><NUMEX TYPE="MONEY">$1.65</NUMEX> to <NUMEX TYPE="MONEY">$1.75</NUMEX></NUMEX>.         <ENAMEX TYPE="ORGANIZATION">School</ENAMEX> board awards milk bid   The <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School Board</ENAMEX> received three bids for its 2004-05 milk contract. The three bids were from Wilkinson Family Dairy, Inland Northwest Dairy and Wilcox Family Dairy.   <TIMEX TYPE="DATE">Thursday</TIMEX> <TIMEX TYPE="TIME">night</TIMEX>, school board members voted to award the bid to Wilcox Family Dairy, which submitted the lowest bid.   The dairy will provide the district half-pint containers of <NUMEX TYPE="PERCENT">1 percent</NUMEX> milk at a cost of 15.8¢ per unit with a total cost of <NUMEX TYPE="MONEY">$52,851</NUMEX> during the year. It will provide half-pint containers of non-fat chocolate milk at a cost of just over 15.3¢ per unit for a total cost of <NUMEX TYPE="MONEY">$29,146</NUMEX>. The dairy will also provide the district with half-pint containers of <NUMEX TYPE="PERCENT">1 percent</NUMEX> or non-fat strawberry milk at a cost of 15.8¢ per unit for a total of <NUMEX TYPE="MONEY">$13,114</NUMEX>.      <ENAMEX TYPE="ORGANIZATION">Board</ENAMEX> to discuss budget <TIMEX TYPE="DATE">Aug. 26</TIMEX>   The <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School Board</ENAMEX> will meet at <TIMEX TYPE="TIME">6 p.m.</TIMEX> on <TIMEX TYPE="DATE">Aug. 26</TIMEX>, in the <ENAMEX TYPE="PERSON">Denny Blaine</ENAMEX> board room to discuss the adoption of the school district budget for the 2004-05 fiscal year.   Copies of the budget are available at the <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School District Administration Office</ENAMEX>.      
+</P>
+
+ 
+
+
+
+
+<P ID="4"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

@@ -1,0 +1,15 @@
+
+<P ID="1">Focus students help cancer patient
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Melissa Browning</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">3/25/2002</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="LOCATION">MABTON</ENAMEX> - When <ENAMEX TYPE="ORGANIZATION">Focus High School Principal Stephen Busby</ENAMEX> received a phone call around <TIMEX TYPE="TIME">5 p.m. last Friday afternoon</TIMEX> he was on his way out of the office for the weekend.   But, learning that a former <ENAMEX TYPE="ORGANIZATION">Focus High School</ENAMEX> student's mother was undergoing cancer treatment in Seattle, he decided helping the woman would be a good project for his students to undertake.   This <TIMEX TYPE="DATE">past Monday</TIMEX> and <TIMEX TYPE="DATE">Tuesday</TIMEX> most of the students of <ENAMEX TYPE="ORGANIZATION">Focus High School</ENAMEX> raked leaves, swept the driveway, pruned bushes and installed fence posts in a children's play area at the woman's home. Garbage, sticks and weeds were also collected and bagged for removal.   <ENAMEX TYPE="PERSON">Busby</ENAMEX> said a neighbor of the cancer patient let him know about the treatment the woman was undergoing.   "He has always been a great supporter of our school and his neighbor lady is the mother of one of our former students, <ENAMEX TYPE="PERSON">Laura Rangel</ENAMEX>," said <ENAMEX TYPE="PERSON">Busby</ENAMEX>.   "Out of respect for the family and support, we chose to clean up around her home and give her something to lift her spirits," he added.   Community service is a big part of education at <ENAMEX TYPE="ORGANIZATION">Focus High School</ENAMEX>.   "A main part of success taught here is giving back to the system," said <ENAMEX TYPE="PERSON">Busby</ENAMEX>.   His students, who range from seventh through 12 graders, each received a community service award from the Yakima Youth Coalition <TIMEX TYPE="DATE">last year</TIMEX>, he said.   Staff from five different school districts have been sent to Focus to learn the method of alternative education that has been successful in <ENAMEX TYPE="LOCATION">Mabton</ENAMEX>, he added.
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

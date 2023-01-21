@@ -1,0 +1,15 @@
+
+<P ID="1"><ENAMEX TYPE="ORGANIZATION">Mabton Food Bank</ENAMEX> needs overhaul-money and volunteers
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Melissa Browning</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">2/4/2003</TIMEX>
+</P><P ID="4"><ENAMEX TYPE="ORGANIZATION">MABTON</ENAMEX> - Tucked away in the basement of the <ENAMEX TYPE="ORGANIZATION">Mabton Veterans</ENAMEX> of Foreign Wars building is the <ENAMEX TYPE="ORGANIZATION">Mabton Food Bank</ENAMEX>. The sign at the stairs leading to the food bank is faded, but those who depend on the service know what is found in the basement of the building located on B Street.   The food bank has been sharing the building with the Alcoholics Anonymous group and a church since the <ENAMEX TYPE="ORGANIZATION">VFW</ENAMEX> lost its charter.   "They (the church, <ENAMEX TYPE="ORGANIZATION">VFW</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Alcoholics Anonymous</ENAMEX>) don't have any money either," said <ENAMEX TYPE="PERSON">Vera Zavala</ENAMEX>, who has been running the food bank for the <TIMEX TYPE="DATE">past three years</TIMEX>.   Currently, the food bank only has two regular volunteers, other than <ENAMEX TYPE="PERSON">Zavala</ENAMEX>, to help prepare and hand out 150 bags of food every second and fourth <TIMEX TYPE="DATE">Tuesday</TIMEX> of the month. She said it is a big job to bag all of the groceries for those in need. Those served include homebound senior citizens who don't have family that can pick up food for them, said <ENAMEX TYPE="PERSON">Zavala</ENAMEX>.   "We serve whoever comes in or is in need," said <ENAMEX TYPE="PERSON">Zavala</ENAMEX>.   In the past, volunteers have assisted in unloading groceries from the <ENAMEX TYPE="LOCATION">Northwest Harvest</ENAMEX> trucks, where the <ENAMEX TYPE="ORGANIZATION">Mabton Food Bank</ENAMEX> gets most of its food.   <ENAMEX TYPE="PERSON">Zavala</ENAMEX> said that students from <ENAMEX TYPE="ORGANIZATION">Focus High School</ENAMEX> have helped unload the trucks when they can, but the truck doesn't always come at the same time.   "It's been like this for three or four years," said <ENAMEX TYPE="PERSON">Zavala</ENAMEX>. "We've even put up sign-up sheets asking for help, but haven't gotten any response."   Besides volunteer help on an on-going basis, <ENAMEX TYPE="PERSON">Zavala</ENAMEX> said the food bank also needs those willing to assist in cleaning the building.   "It needs a real good cleaning," said <ENAMEX TYPE="PERSON">Zavala</ENAMEX>. "We've painted the cement floor several times, but it needs it again."   Although <ENAMEX TYPE="PERSON">Zavala</ENAMEX>, who's been working with the food bank for 30 years, has several wishes for the facility, her biggest wish is that someone with money would step in and fix the building.   "We can get by, but it needs a lot of work," she added.      . <ENAMEX TYPE="PERSON">Melissa Browning</ENAMEX> can be contacted at (509) 837-4500, or e-mail mbrowning@hawkpress.com
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

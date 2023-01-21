@@ -1,0 +1,15 @@
+
+<P ID="1">Beyond The Norm-Mel
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Melissa Browning</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">3/3/2002</TIMEX>
+</P><P ID="4">For nearly a week I have been mulling over a court's recent decision that uphold a decision to rescind a college scholarship that was awarded to <ENAMEX TYPE="PERSON">Joshua Davey</ENAMEX>, a student who was awarded the Promise Scholarship <TIMEX TYPE="DATE">five years ago</TIMEX>.   I hear the "separation of church and state argument" loud and clear, but at the same time I wonder how valid of an argument that really is.   It seems that the "state" likes to use that excuse whenever it is convenient, but is there really a separation of church and state?   <ENAMEX TYPE="PERSON">Davey</ENAMEX>, a student at <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="ORGANIZATION">Northwest</ENAMEX> College</ENAMEX> in <ENAMEX TYPE="LOCATION">Kirkland</ENAMEX>, was awarded a <NUMEX TYPE="MONEY">$1,125</NUMEX> scholarship, designed to provide financial assistance to students in <ENAMEX TYPE="LOCATION">Washington</ENAMEX> state from low and middle income families. The students have to have high academic credentials and be enrolled in a public or private post-secondary school within the state.   <ENAMEX TYPE="PERSON">Davey</ENAMEX>'s scholarship was taken away because he was majoring in pastoral ministries and business management, (the pastoral ministries being the issue.)   I find it interesting that at a time when education is pushed as the way for higher wages and a way to better yourself, the state would be picky and basically say, "We really think it is important for you to go to school. We believe based on your academics and social status you are worthy of this token to reward you for your hard work." Just to strip it away a few days later.   <ENAMEX TYPE="LOCATION">Washington</ENAMEX> is one of more than 30 states that doesn't give scholarships to those studying ministry.   When will that change? Will it one day be anyone with a religious affiliation who attends college may potentially be entering the ministry, and therefore be excluded from state scholarships?   What about political offices? We generally elect people we feel are qualified and have our best interest in mind. Most of them have religious backgrounds. Is that a conflict of separation of church and state? I doubt that they shut off any religious teachings they have had when making a decision on how the state is run. In a way, isn't their service to the state a ministry?   When someone with religious background comforts a co-worker who just lost a parent, isn't that ministry? When co-workers with church backgrounds decide to offer help to a needy family, could that also be considered ministry?   Maybe we have more opportunities to minister in our communities than we realize. Should it diminish our opportunity for education?      . <ENAMEX TYPE="PERSON">Melissa Browning</ENAMEX> can be contacted at (509) 837-4500, or e-mail mbrowning@hawkpress.com   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

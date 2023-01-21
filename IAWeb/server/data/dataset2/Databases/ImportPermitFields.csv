@@ -1,0 +1,20 @@
+Quantity,Number of animals
+Purpose,Reason for import
+Document_Title,
+Special_Conditions,"If exists, what special circumstances exist"
+Description,General description of import shipment
+Source_Code,Code of originating agency
+Certificate_Number,
+Valid_Until,Permit good until date
+Consignee_Country,Country of receiving person/entity
+Management_Authority,Permit authority
+Common_Name,Species common name
+Permittee_Country,Country of permit originator
+Consignee_Address,Address of receiving person/entity
+Origin,Origin of shipment
+Permittee_Name,Name of permit originator
+Scientific_Name,Scientific name of species
+Permittee_Address,Address of permit originator
+Consignee_Name,Name of receiving person/entity
+Issue_Date,Permit issue date
+Security_Stamp,

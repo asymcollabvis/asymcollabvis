@@ -1,0 +1,15 @@
+
+<P ID="1">Update given on new middle school, concession stand
+</P> 
+<P ID="2">Date Published to Web: <TIMEX TYPE="DATE">8/6/2004</TIMEX>
+</P><P ID="3"><ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School District</ENAMEX> Executive Director of <ENAMEX TYPE="ORGANIZATION">Business Dave Plesha</ENAMEX> provided the school board <TIMEX TYPE="DATE">last week</TIMEX> with a report on the progress being made at the new middle school. <ENAMEX TYPE="PERSON">Plesha</ENAMEX> also updated the board on how the reconstruction of the concession stand at the high school is going.   <ENAMEX TYPE="PERSON">Plesha</ENAMEX> told board members he has been meeting with city and county officials on issues concerning the new middle school that will be constructed on 57 acres of land along <ENAMEX TYPE="LOCATION">Washout Road</ENAMEX>, just north of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Christian High School</ENAMEX>. <ENAMEX TYPE="PERSON">Plesha</ENAMEX> has been discussing issues concerning water and sewer lines and the entry way to the new school with <ENAMEX TYPE="LOCATION">City of Alderwood</ENAMEX> and <ENAMEX TYPE="LOCATION">Yakima County</ENAMEX> officials. Currently, the property for the new middle school is outside the city limits, creating some issues with access to water/sewer lines. The school district is looking at hopefully being able to annex the property into the city at a future date. <ENAMEX TYPE="ORGANIZATION">School</ENAMEX> board member <ENAMEX TYPE="PERSON">Fred Kilian</ENAMEX> offered his assistance to <ENAMEX TYPE="PERSON">Plesha</ENAMEX> in conducting talks with the <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="LOCATION">Valley Irrigation District</ENAMEX> on what to do with the irrigation canal that runs nearby.   In related news to the middle school construction project, school board members approved two resolutions that will assist the district in obtaining reimbursement money from the state. The first of the resolutions approved has <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">School District</ENAMEX> Superintendent Dr. <ENAMEX TYPE="PERSON">Aaron Bones</ENAMEX> and <ENAMEX TYPE="PERSON">Plesha</ENAMEX> serving as the authorizing agents for school facilities. The other resolution had to do with assuring the state that no racial imbalance would exist in the school district with the construction of a new middle school.   <ENAMEX TYPE="PERSON">Plesha</ENAMEX> also provided the board with an update on the rebuilding of the concession stand at the high school football field. The reconstruction of the concession stand is being done in-house by school district staff. The new concession stand will be much larger than the old one, said <ENAMEX TYPE="PERSON">Plesha</ENAMEX>. Some of the highlights with the new concession stand, said <ENAMEX TYPE="PERSON">Plesha</ENAMEX>, will be additional toilets in the women's restroom and the facility will be equipped with heaters.   
+</P>
+
+ 
+
+
+
+
+<P ID="4"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

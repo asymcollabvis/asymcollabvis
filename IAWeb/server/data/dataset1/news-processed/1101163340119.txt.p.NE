@@ -1,0 +1,15 @@
+
+<P ID="1">Tacitly yours
+</P><P ID="2">Story by: <ENAMEX TYPE="PERSON">Ellie Olmsen</ENAMEX>
+</P><P ID="3">Date Published to Web: <TIMEX TYPE="DATE">5/10/2002</TIMEX>
+</P><P ID="4">My husband and I recently decided to make a new addition to our little family. We decided that since we're living in a larger place, we could probably afford another little creature sharing the same roof with us.   So for the <TIMEX TYPE="DATE">past week</TIMEX> and a half we have been living with a little black lab puppy.   It has literally been years since I have had a dog and I couldn't wait to get our puppy home and start spoiling her. Truthfully, bringing home a puppy to care for has really been a new experience for both my husband and I. Before we brought <ENAMEX TYPE="PERSON">Maggie</ENAMEX> home, we... well, were never really home. We spent our weekends going different places, shopping for different things and basically just not being at home.   All that has changed since our puppy came home with us. All of a sudden we need to do something we've never had to do before...think about another living thing. I know it sounds bad, but when it's just the two of you, there is no one else to think about and you can pretty much do whatever you want, whenever you want. Now we have to think about things like, making sure we're home in time to feed our puppy at the regular time and ensuring that she has toys to keep her occupied. We also have to wake up a little earlier in the morning to take her outside.   But having a new puppy is more than just having to take care of it and making sure it gets fed and watered. She has also been really fun, running around the yard, playing with her toys and at times just being a really sweet dog. On the other hand, it also means that we're having to teach her right from wrong, and I am beginning to see that I am nothing more than a big softy. I'm the one who wants to cave in as soon as I hear her whimpering, while my husband tells me that if we give in she's never going to learn. I know he's right, but she just looks so sad sometimes.   What's really funny is how after just a week and a half <ENAMEX TYPE="PERSON">Maggie</ENAMEX> has become like a part of the family. My husband and I were just discussing that <TIMEX TYPE="TIME">last night</TIMEX>. Over the course of just 10 days she has gone from being sad about being away from her mother and siblings to being a puppy that is happy in her new home and just wants to spend time with her new owners.   We plan on keeping her as happy as she makes us.   
+</P>
+
+ 
+
+
+
+
+<P ID="5"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

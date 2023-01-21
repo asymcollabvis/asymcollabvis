@@ -1,0 +1,48 @@
+
+<P ID="1"><ENAMEX TYPE="ORGANIZATION">Forum</ENAMEX>
+</P> 
+<P ID="2">Date Published to Web: <TIMEX TYPE="DATE">2/27/2003</TIMEX>
+</P>
+<P ID="3">1-Column
+<ENAMEX TYPE="LOCATION">Mabton</ENAMEX> team, fanstrue sportsmen
+First, I would like to congratulate the Mabton Viking boys basketball team on its season, and also wish them luck this coming weekend in their quest for a <ENAMEX TYPE="LOCATION">State</ENAMEX> 'B' tournament bid.
+<TIMEX TYPE="DATE">Last weekend</TIMEX>, Riverside Christian played <ENAMEX TYPE="LOCATION">Mabton</ENAMEX> for the 'B' <ENAMEX TYPE="LOCATION">District</ENAMEX> tournament  championship in <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>. The tremendous sportsmanship shown by <ENAMEX TYPE="LOCATION">Mabton</ENAMEX>'s players, coaches and fans says a lot about the school and community. Our Riverside players and coaches would like to make sure you all know that we feel you're not only tough to beat on the court, but also off the court!
+Again, good luck <ENAMEX TYPE="ORGANIZATION">Vikings</ENAMEX>!
+/s/ <ENAMEX TYPE="PERSON">Bruce Siebol</ENAMEX>, head boys basketball coach, <ENAMEX TYPE="ORGANIZATION">Riverside Christian High School</ENAMEX>, <ENAMEX TYPE="LOCATION">Yakima</ENAMEX>
+</P> 
+<P ID="4">Library interesting
+I will tell you some reasons I like the public library. It has movies, a variety of books and books on tape.
+The reason I like the movies is because there are adult and children selections. We first were introduced to <ENAMEX TYPE="PERSON">Anne Shirly</ENAMEX> of <ENAMEX TYPE="ORGANIZATION">Anne</ENAMEX> of <ENAMEX TYPE="LOCATION">Green Gables</ENAMEX> when we checked out the movie. Also, you can check movies out for a whole week.
+I also like that they have a variety of books. The public library has adult, young adult and children's books. Everyone in my family can find something enjoyable to read. I can always find some of my favorite books—"The Cabin Faced West" and "<ENAMEX TYPE="PERSON">Laura Ingalls Wilder</ENAMEX>." We can check these books out for 30 days.
+Finally, our public library has books on tape. "<ENAMEX TYPE="PERSON">Hank</ENAMEX> the Cow Dog" is our family favorite. Books on tape are good for long trips and being in the car in general. These, unlike the movies, are checked out for 30 days, just like a book.
+As you can see, I find things interesting at the public library. Maybe you will, too.
+/s/ <ENAMEX TYPE="PERSON">Jessie Robert</ENAMEX>, fifth grader, <ENAMEX TYPE="ORGANIZATION">Chief Kamiakin Elementary School</ENAMEX>
+</P> 
+<P ID="5">DSN exerting political influence
+The <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Daily News</ENAMEX> continues to be an opinion-paper of the DSN management and not a news-paper. What was labeled to be the opinion of <ENAMEX TYPE="PERSON">John Panni</ENAMEX> (written in the “Rinz should be manager” propaganda piece that appeared <TIMEX TYPE="DATE">2-25-04</TIMEX>) seems out of character for <ENAMEX TYPE="LOCATION">Mike</ENAMEX> and more in line with the <ENAMEX TYPE="ORGANIZATION">Old Guard</ENAMEX> effort of the <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Daily News</ENAMEX> management style to exert its dominating political influence upon our community.
+<ENAMEX TYPE="PERSON">Bruce Rinz</ENAMEX> is a good guy. He is an attorney. These do not qualify him for the position of <ENAMEX TYPE="ORGANIZATION">City</ENAMEX> Manager. Some old political associations exist from the Leo Fancy Regime that would be unfavorable to Mark’s being <ENAMEX TYPE="ORGANIZATION">City</ENAMEX> Manager. Although the <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Daily News</ENAMEX> favored that brand of politics (reference old newspapers), as a prudent department head, <ENAMEX TYPE="PERSON">Mark</ENAMEX> was obliged to support those politics as part of his job description.
+To the detriment of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>, The <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Daily News</ENAMEX> was successful in its campaign to oust <ENAMEX TYPE="PERSON">Pete Squires</ENAMEX>. <ENAMEX TYPE="PERSON">Pete</ENAMEX> is a professional planner and was an excellent asset to our community. He refused to surrender to the control of special interest groups and only wished to serve the best interests of the residents of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>. The <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Daily News</ENAMEX> has a long history of being opposed to those types of community servants. The <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Daily News</ENAMEX> “management think tank” again emerged in <ENAMEX TYPE="LOCATION">Mike’s</ENAMEX> article to campaign for <ENAMEX TYPE="PERSON">Marshall Doak</ENAMEX> as City Planner. <ENAMEX TYPE="PERSON">Marshall</ENAMEX> is not a professional city planner and already has a job. The connections of his job would have a conflict of interest to the position of city planner. Apparently,  “conflict of interest” is desirable to the campaign efforts of the <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Daily News</ENAMEX>.
+Then, Panni’s personal column continues to carry the torch lit by <ENAMEX TYPE="PERSON">Bob Story</ENAMEX> as it bashes <ENAMEX TYPE="PERSON">Councilman Tom Seeger</ENAMEX> and Don’s efforts to steadfastly represent the community in employee relations. <ENAMEX TYPE="PERSON">Mike</ENAMEX> ponders and expands upon petty minutia while ignoring the outstanding policies <ENAMEX TYPE="PERSON">Don</ENAMEX> has assisted to develop for the benefit of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>. To <ENAMEX TYPE="PERSON">Bob</ENAMEX> and management; a staff meeting does not constitute research, nor do management memos substitute for investigative reporting.
+/s/ <ENAMEX TYPE="PERSON">James E. Stevens</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">DMD</ENAMEX>, <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>
+</P> 
+<P ID="6"><ENAMEX TYPE="PERSON">Panni</ENAMEX> misses many points
+<ENAMEX TYPE="PERSON">Per John Panni</ENAMEX>'s personal column on <TIMEX TYPE="DATE">Feb. 25</TIMEX>: <ENAMEX TYPE="PERSON">Mike</ENAMEX> is one journalist that I have respected for a long time. But I feel he missed many points in his column.
+Without a doubt, <ENAMEX TYPE="PERSON">Bruce Rinz</ENAMEX> is as fine of a gentleman as you will find anywhere. Yes, he would make a good city manager. Does he even want it, is the question. If so, he no doubt has applied for it. And if the <ENAMEX TYPE="ORGANIZATION">City Council</ENAMEX> thinks he is the right man for the job, they will do the right thing and appoint him manager.
+But are there other people out there who may be as qualified? If so, let's find out. Let's go through the process. And if he is the best and wants it, I would say it would be a great choice.
+I do feel the city has some real fine city employees. Many, second to none. But the <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX> is not elected to represent the employees. They are elected to represent the TAXPAYER. And <ENAMEX TYPE="PERSON">Mike</ENAMEX> did not once mention the taxpayer in his column. These are the people that should never be forgot. They are the bread and butter of <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>. Most of the city employees are represented by a union. The unions are the ones to look out for these employees. It was a huge blunder on <ENAMEX TYPE="LOCATION">Mike</ENAMEX>'s part to think the <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX> should worry about the employees. They should not. They need to worry about taxpayers only. The city manager then must worry about the <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX> and the employees. This is the manager's job, totally.
+As far as the employees and councilmen going at it weekly, it does not concern me. If we are open minded, we can learn a lot from the exchanges. These employees think they are not replaceable. The <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX> thinks they are. So, you have two sides who disagree. What's the big deal? Disagreements have been going on ever since the beginning of this world. If you don't have disagreements, then you don't have a free society.
+<ENAMEX TYPE="PERSON">Mike</ENAMEX> mentions that the <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX> should quit micro-managing. Are they really micro-managing or are they trying to get a point across that no one wants to listen to? It is the city manager's responsibility to bring this micro-managing into the flow of city business. A good city manager can and will confront anything he thinks is out of place for the good of the city. If he is afraid to do this then he does not belong in his position. But the city manager must be willing to listen to and accept all direction from the <ENAMEX TYPE="ORGANIZATION">Council</ENAMEX>.
+<ENAMEX TYPE="PERSON">Mike</ENAMEX> mentions at the very end of his column that "if an employer treasures an employee, the employee will treasure the job. Is that so hard to understand?" Yes, that is very hard to understand because it is not true. I would say it may be more accurate in a privately owned business. But most definitely not in government or the corporate world with all the unions <TIMEX TYPE="DATE">today</TIMEX>. It is not the human nature of <NUMEX TYPE="PERCENT">100 percent</NUMEX> of humanity to treasure their jobs, even with outlandish pay. It just isn't so and never will be. IMPOSSIBLE!
+/s/ <ENAMEX TYPE="PERSON">Don Padelford</ENAMEX>, <ENAMEX TYPE="LOCATION">Alderwood</ENAMEX>
+</P> 
+ 
+
+
+ 
+
+
+
+
+<P ID="7"><ENAMEX TYPE="ORGANIZATION">Webmaster  Copyright Hawk Press Inc.</ENAMEX>, 
+</P>
+

@@ -1,0 +1,57 @@
+{
+  "name": "cross-device-collab",
+  "version": "1.0.0",
+  "description": "This project utilizes the [gRPC framework](https://grpc.io/) to build real-time communications between two different applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel --https --no-cache src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "ts-node --transpile-only server/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtong2017/cross-device-collab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtong2017/cross-device-collab/issues"
+  },
+  "homepage": "https://github.com/wtong2017/cross-device-collab#readme",
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.7",
+    "@mui/x-data-grid": "^5.13.0",
+    "@react-three/drei": "^9.14.3",
+    "@react-three/fiber": "^8.2.2",
+    "@react-three/xr": "^4.1.0",
+    "@reduxjs/toolkit": "^1.8.3",
+    "@use-gesture/react": "^10.2.16",
+    "d3": "^7.5.0",
+    "d3-force-3d": "^3.0.3",
+    "google-protobuf": "^3.20.1",
+    "grpc-web": "^1.3.1",
+    "lodash": "^4.17.21",
+    "nearby-js": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "three": "^0.141.0",
+    "troika-three-text": "^0.46.4",
+    "usehooks-ts": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.0",
+    "@types/lodash": "^4.14.183",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.5",
+    "@types/three": "^0.141.0",
+    "buffer": "^6.0.3",
+    "parcel": "^2.6.2",
+    "process": "^0.11.10"
+  }
+}
