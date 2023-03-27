@@ -65,10 +65,10 @@ Here is the stucture of the data folder:
 ```
 
 ## Roadmap
-- [] Clean the repo by removing unused code
-- [] Support documents upload
-- [] Support user experience replay for research analysis
-- [] More features
+- [ ] Clean the repo by removing unused code
+- [ ] Support documents upload
+- [ ] Support user experience replay for research analysis
+- [ ] More features
 
 ## Citing the project
 ```
