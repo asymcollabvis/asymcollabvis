@@ -64,6 +64,12 @@ Here is the stucture of the data folder:
 /data/study2/combined.csv           contains the combined data of behaviors engagement rating, ranking of preference, task load, and coded result of the communcation logs
 ```
 
+## Roadmap
+- [] Clean the repo by removing unused code
+- [] Support documents upload
+- [] Support user experience replay for research analysis
+- [] More features
+
 ## Citing the project
 ```
 @article{tong2023towards,
